@@ -1,0 +1,23 @@
+{
+  "name": "mlb-scores-cli",
+  "version": "1.0.0",
+  "description": "Displays MLB scores in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamMescher/mlb-scores-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamMescher/mlb-scores-cli/issues"
+  },
+  "homepage": "https://github.com/AdamMescher/mlb-scores-cli#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
