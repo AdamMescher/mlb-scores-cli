@@ -20,6 +20,7 @@
   "dependencies": {
     "chalk": "^2.3.2",
     "colors": "^1.1.2",
-    "comander": "0.0.1-security"
+    "comander": "0.0.1-security",
+    "node-fetch": "^2.1.1"
   }
 }
