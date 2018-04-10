@@ -18,9 +18,17 @@
   },
   "homepage": "https://github.com/AdamMescher/mlb-scores-cli#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "chalk": "^2.3.2",
+    "cli-table2": "^0.2.0",
     "colors": "^1.1.2",
     "comander": "0.0.1-security",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "lodash": "^4.17.5",
     "node-fetch": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-import": "^2.9.0"
   }
 }
